@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am an Assistant Professor in the Department of Civil and Environmental Engineering at Jackson State University (JSU). My research focuses on traffic flow modeling and optimization, connected and autonomous vehicles, and traffic safety analysis. Recently, I have concentrated on the extension of the Max-Pressure (MP) traffic signal control algorithms.
 
-Before joining JSU, I was a postdoc scholar at Penn State, under the supervision of Dr. Vikash V. Gayah. I earned my PhD in Transportation Engineering from UT Austin, under the supervision of Dr. Randy Machemehl and Dr. Christrian Claudel. I also hold a Master's degree in Statistics from UT Austin and a Master's degree in Solid Mechanics from Peking University. I obtained my B.E. in Engineering Mechanics from China University of Mining and Technology (Beijing). 
+Before joining JSU, I was a postdoc scholar at Penn State, under the supervision of [Dr. Vikash V. Gayah](https://www.cee.psu.edu/department/directory-detail-g.aspx?q=VVG104). I earned my PhD in Transportation Engineering from UT Austin, under the supervision of [Dr. Randy Machemehl](https://sites.utexas.edu/machemehl/) and [Dr. Christrian Claudel](https://www.caee.utexas.edu/people/faculty/faculty-directory/claudel). I also hold a Master's degree in Statistics from UT Austin and a Master's degree in Solid Mechanics from Peking University. I obtained my B.E. in Engineering Mechanics from China University of Mining and Technology (Beijing). 
 
 In my free time, I like playing and watching basketball and tennis. 
 
